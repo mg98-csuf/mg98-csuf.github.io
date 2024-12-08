@@ -1,9 +1,13 @@
 
 # Marcos Garcia's Portfolio
 
-Hello. My name is Marcos Garcia, and I am a Computer Science major at Cal State Fullerton. I plan on graduating in the spring of 2028.
+Hello. My name is Marcos Garcia, and I am a Computer Science major at [Cal State Fullerton](https://www.fullerton.edu). I plan on graduating in the spring of 2028.
 
-## My Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My Github page is https://github.com/mg98-csuf
+
+## CPSC 120L
 
 ### Lab 7:
 While it seemed like a pretty straightforward task to do, it did cause a bit of trouble for me and my partner. What was the most difficult part was setting the logic for the conditionals of if parking was available. It was a bit difficult to visualize how the logic worked, like checking to see if the right signs were used to check if the time was right. The most difficult part was implementing the times where they were between the 30 minute mark, and not at the start or end of an hour. It was very satisfying to solve the logic for determining when you can park, which is what made this lab one of my favorites, and memorable to me.
